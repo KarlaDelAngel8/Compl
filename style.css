@@ -1,34 +1,39 @@
 html {
     height: 50%;
+   
 }
 body{
-    background-color: lightskyblue;
+    background-color: rgb(6, 53, 82);
     color: blanchedalmond;
     height: 25%;
-    
-}
-img{
     background-position: center;
+}
+img{ 
+   background-position: center;
     background-size: cover;
-    height: 620px;
+    height: 390px;
     background-repeat: repeat;
 }
 h1{
     text-align: center;
-    color: black;
-    background-color: azure;
-    font-family: "Oswald", sans-serif; 
+    color: rgb(18, 165, 190);
+    background-color: rgb(2, 23, 63);
+    font-family: cursive;
     padding: 10px;
     margin: 30px;
 }
-.div-1{
-    padding: 20px;
-    width: 300px;
+h2{
+    margin-left: 250px 0px 0px 350 px;
+}
+h5{
+    text-align: center;
+}
+.dropdown{
+    background-color: rgba(8, 117, 201, 0.212);
     float: right;
-}
-.card{
-    text-align: left;
-    color: black;
+    font-family:cursive;
     font-size: 25px;
-    
+    color: rgb(140, 138, 167);
+    page-orientation: 50px;
 }
+
